@@ -48,9 +48,9 @@ All SQL queries are in the `sql/` folder:
 •	Prescriptive:  Focus loyalty programs on top quartile; plan inventory based on 3month moving average; investigate low-performing months for improvement.
 
  6. References
-1.	MySQL Documentation  Window Functions, 
-2.	Oracle PL/SQL Documentation  .
-3.	SQL Server Window Functions Guide  .
-4.	Database Journal – Analytical Queries  .
-5.	W3Schools SQL Tutorial  .
+.	MySQL Documentation  Window Functions, 
+.	Oracle PL/SQL Documentation  .
+.	SQL Server Window Functions Guide  .
+.	Database Journal – Analytical Queries  .
+.	W3Schools SQL Tutorial  .
 
